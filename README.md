@@ -1,4 +1,3 @@
-==============================================================================
  DYNAMIC ISLAND for KDE Plasma (Wayland)  -  GTK4 edition
  An iPhone-style Dynamic Island at the top-center of your screen.
  Python + GTK4 + gtk4-layer-shell. Runs as a NATIVE Wayland layer-shell surface.
@@ -283,7 +282,7 @@ REMOVE
   - Primary monitor only (the compositor decides which output).
   - It may appear over fullscreen apps (overlay layer).
   - The shelf is memory-only by design.
-=======
+
 # Dynamic-Island_2.0
  DYNAMIC ISLAND for KDE Plasma (Wayland)  -  GTK4 edition  An iPhone-style Dynamic Island at the top-center of your screen.  Python + GTK4 + gtk4-layer-shell. Runs as a NATIVE Wayland layer-shell surface.
  8154ea8102dc204c47bf688722cb5b5037e6428c
